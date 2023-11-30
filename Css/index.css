@@ -1,0 +1,41 @@
+.mainElement{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 2.5%;
+    margin: 0 30vw;
+    background-color: rgba(188, 188, 188, 0.11);
+    border-radius: 10%;
+    width: 350px;
+}
+
+h1{
+    margin-left: 20%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 32px;
+}
+
+h2{
+    margin-left: 8%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    padding-bottom: 3%;
+    border-bottom: 2px solid rgb(179, 23, 174);
+}
+
+
+dt{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    margin: 2%;
+}
+
+
+dd{
+    color: rgb(106, 81, 108);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 20%;
+}
+
